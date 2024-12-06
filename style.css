@@ -1,0 +1,135 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: 50px;
+    font-family:arial black;
+text-align: center;
+text-shadow: 4px 5px 20px rgb(204, 105, 39),2px 2px 20px rgb(145, 109, 109);
+}
+hr{
+margin: 0px 100px;
+}
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(209, 120, 60);
+    font-size: 30px;
+    line-height: 2px;
+}
+.heading{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+h3{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+font-weight: normal;
+text-shadow: 6px 7px  20px rgb(133, 101, 101);
+margin-left: 30px;
+}
+h6{
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(209, 120, 60);
+    margin-top: -50px;
+    margin-left: 30px;
+}
+.vl{
+    transform: rotate(90deg);
+    width: 250px;
+    height: 2px;
+margin-top: -30px;
+margin-left: 350px;
+}
+.paragraph{
+    width: 400px;
+    text-align: justify;
+    margin-left: 520px;
+    margin-top: -120px;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-indent: 50px;
+}
+.para2{
+    width: 400px;
+    text-align: justify;
+    margin-left: 990px;
+    margin-top: -120px;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-indent: 50px; 
+}
+.vl2{
+    transform: rotate(90deg);
+    width: 250px;
+    height: 2px;
+margin-top: -100px;
+margin-left: 840px;
+}
+.quote{
+    font-size: 30px;
+    color: rgb(6, 86, 88);
+   text-align: center;
+   margin: 10px 50px 50px 50px;
+}
+.para3{
+    width: 400px;
+    text-align: justify;
+    margin-left: 1450px;
+    margin-top: -120px;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-indent: 50px; 
+}
+.vl3{
+    transform: rotate(90deg);
+    width: 250px;
+    height: 2px;
+margin-top: -100px;
+margin-left: 1300px;
+}
+.paragraph-one{
+    width: 400px;
+    text-align: justify;
+    margin-left:50px;
+    margin-top: 5px;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-indent: 50px;
+}
+.vlone{
+    transform: rotate(90deg);
+    width: 250px;
+    height: 2px;
+margin-top: -100px;
+margin-left: 350px;
+}
+.paratwo{
+    width: 600px;
+    text-align: justify;
+    margin-left:520px;
+    margin-top: -115px;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-indent: 50px;
+}
+.vltwo{
+    transform: rotate(90deg);
+    width: 250px;
+    height: 2px;
+margin-top: -120px;
+margin-left: 1025px;
+}
+.parathree{
+    width: 600px;
+    text-align:justify;
+    margin-left:1200px;
+    margin-top: -115px;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-indent: 50px;
+    
+}
+
